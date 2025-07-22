@@ -40,7 +40,9 @@
   <a href="https://damonthomas.dev/" target="blank">
     <img src="assets/DTLogo2.png" alt="DT Logo" height="40"  />
   </a>
- &nbsp;
+ 
+</div>
+
+&nbsp;
 
   <img src="https://komarev.com/ghpvc/?username=damon-thomas&label=Profile%20views&color=0e75b6&style=flat" alt="damon-thomas" />
-</div>
